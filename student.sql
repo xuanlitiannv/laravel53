@@ -1,0 +1,9 @@
+INSERT INTO `student` (`id`, `name`, `age`, `sex`, `created_at`, `updated_at`) VALUES (71, 'sean', 12, 30, 1522997702, 1522997702);
+INSERT INTO `student` (`id`, `name`, `age`, `sex`, `created_at`, `updated_at`) VALUES (73, '66', 66, 10, 1522998023, 1522998023);
+INSERT INTO `student` (`id`, `name`, `age`, `sex`, `created_at`, `updated_at`) VALUES (74, '66', 66, 30, 1523000616, 1523000616);
+INSERT INTO `student` (`id`, `name`, `age`, `sex`, `created_at`, `updated_at`) VALUES (75, '44', 44, 20, 1523003160, 1523003160);
+INSERT INTO `student` (`id`, `name`, `age`, `sex`, `created_at`, `updated_at`) VALUES (76, '444', 45, 20, 1523004016, 1523004016);
+INSERT INTO `student` (`id`, `name`, `age`, `sex`, `created_at`, `updated_at`) VALUES (77, 'ss', 12, 30, 1523004552, 1523004552);
+INSERT INTO `student` (`id`, `name`, `age`, `sex`, `created_at`, `updated_at`) VALUES (78, 's\'s\'s', 33, 20, 1523007069, 1523007069);
+INSERT INTO `student` (`id`, `name`, `age`, `sex`, `created_at`, `updated_at`) VALUES (79, 'ss', 44, 30, 1523007669, 1523007669);
+INSERT INTO `student` (`id`, `name`, `age`, `sex`, `created_at`, `updated_at`) VALUES (80, 'sean', 18, 20, 1523018330, 1523018330);
